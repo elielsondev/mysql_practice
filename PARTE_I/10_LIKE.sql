@@ -1,7 +1,8 @@
 -- LIKE - criando pesquisas mais dinâmicas:
-
--- % O sinal de percentual, que pode representar zero, um ou múltiplos caracteres.
--- _ O underscore, que representa um único caractere.
+/*
+    % O sinal de percentual, que pode representar zero, um ou múltiplos caracteres.
+    _ O underscore, que representa um único caractere.
+*/
 
 -- Veja alguns exemplos de busca abaixo:
 
