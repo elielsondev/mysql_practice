@@ -14,13 +14,13 @@ DESCRIBE actor;
 CREATE DATABASE nome_do_novo_banco_de_dados;
 
 -- Constraints (restrições), chaves primárias e chaves estrangeiras:
-	-- NOT NULL
-    -- UNIQUE
-    -- PRIMARY KEY
-    -- FOREIGN KEY
-    -- DEFAULT 
+   -- NOT NULL
+   -- UNIQUE
+   -- PRIMARY KEY
+   -- FOREIGN KEY
+   -- DEFAULT 
     
 -- Como os dados são ligados?
-	-- 1:1 - Um para um;
-	-- 1:N - Um para muitos;
-	-- N:N - Muitos para muitos;
+   -- 1:1 - Um para um;
+   -- 1:N - Um para muitos;
+   -- N:N - Muitos para muitos;
