@@ -7,6 +7,8 @@
 
 -- Exemplo:
 SELECT first_name FROM sakila.actor;
+
 -- ou
+
 USE sakila;
 SELECT first_name FROM actor;
