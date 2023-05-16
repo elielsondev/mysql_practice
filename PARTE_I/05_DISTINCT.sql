@@ -1,4 +1,5 @@
 -- Criar um banco de dados para usar posteriormente usar o DISTINCT:
+
 DROP DATABASE escola;
 
 CREATE DATABASE IF NOT EXISTS escola;
@@ -19,7 +20,7 @@ INSERT INTO escola.estudantes (nome, idade) VALUES
   ('Tiago', 32);
 
 
--- DISTINCT - evitando dados repetidos
+-- DISTINCT - evitando dados repetidos:
 SELECT DISTINCT nome FROM escola.estudantes;
 
 SELECT DISTINCT idade FROM escola.estudantes;
