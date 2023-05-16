@@ -1,4 +1,7 @@
 -- CONCAT - Juntando duas ou mais colunas:
+   -- CONCAT(coluna1, coluna2, coluna3, ...)
+   -- CONCAT(coluna1, coluna2, coluna3, ...) AS nome_da_coluna
+   
    -- Antes dê uma pesquisada no sakila.actor: 
    SELECT * FROM sakila.actor;
 
