@@ -1,5 +1,4 @@
 -- Operador IN: Este operador serve para comparar se um valor é igual com um ou mais valores.
-
 -- Ao invés de:
 SELECT * FROM sakila.actor
     WHERE first_name = 'PENELOPE'
