@@ -1,4 +1,5 @@
 -- SELECT:
+
 SELECT 'Hello, World!';
 SELECT 'Hello, World!' AS me_livrei_da_maldição;
 SELECT NOW();
