@@ -1,7 +1,8 @@
 -- Aprender a lidar com o WHERE e
 -- com os principais comparadores lógicos:
 
-/* OPERADOR - DESCRIÇÃO
+/* 
+   OPERADOR - DESCRIÇÃO
       =        Igual
       <>       Diferente de
       >        Maior
