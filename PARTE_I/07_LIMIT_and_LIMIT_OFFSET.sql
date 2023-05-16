@@ -2,9 +2,11 @@
 -- resultado é 16044, ou seja, existem 16044 linhas na tabela rental.
 SELECT COUNT(*) FROM sakila.rental;
 
--- Isso não é sempre necessário e pode até ser um problema em bancos de dados gigantes, em que as
--- tabelas podem conter milhares ou milhões de linhas. Resolver isso é bem simples: tudo que você
--- precisa fazer é limitar o resultado usando o LIMIT:
+/*
+Isso não é sempre necessário e pode até ser um problema em bancos de dados gigantes, em que as
+tabelas podem conter milhares ou milhões de linhas. Resolver isso é bem simples: tudo que você
+precisa fazer é limitar o resultado usando o LIMIT:
+*/
 
 
 -- LIMIT - especificando a quantidade de resultados:
