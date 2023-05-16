@@ -8,8 +8,8 @@ quando você pensar no dia de 25 de dezembro de 2020, para o banco dados, esse d
 
 Maneiras de encontrar dados por data:
 
-    - Vamos dizer que queremos encontrar pagamentos realizados na data 2005-07-31
-    na tabela sakila.payment.
+- Vamos dizer que queremos encontrar pagamentos realizados na data 2005-07-31
+na tabela sakila.payment.
 
     Há várias formas de fazer isso:
 */
