@@ -53,17 +53,22 @@ __OBS: Não vamos abordar como se instala o sakila, pois este não é o foco.__
 
 ## II - Funções mais utilizadas no SQL:
 
-[]();
+[1 - Indrodução](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/01_introducao.sql);
 
-[]();
+[2 - Mmanipulando STRINGS](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/02_MANIPULANDO_STRINGS.sql);
 
-[]();
+[3 - Condicionais IF e CASE](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/03_CONDICIONAIS_IF_CASE.sql);
 
-[]();
+[4 - Funções matemáticas no SQL - DIV, MOD, ROUND(), CEIL(), FLOOR(), POW(), SQTR(), RAND()](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/04_funcoes_matematicas_no_SQL.sql);
 
-[]();
+[5 -  Trabalhando com datas - CURRENT_DATE(), NOW(), DATEDIFF(), TIMEDIFF(), YEAR(), HOUR()](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/05_trabalhando_com_datas.sql);
 
-[]();
+[6 - Funções de agregação - AVG(), MIN(), MAX(), SUM() e COUNT()](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/06_funcoes_de_agregacao_AVG_MIN_MAX_SUM_e_COUNT.sql);
+
+[7 - GROUP BY - remove duplicações, retornando apenas um valor da coluna usada no agrupamento.](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/07_GROUP_BY.sql);
+
+[7.1 - GROUP BY e HAVING](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_II/07.1_GROUP_BY_e_HAVING.sql);
+
 
 ## III - JOINS - (JOIN é permitir combinar registros de duas ou mais tabelas, através do relacionamento que uma tabela tem com a outra.):
 
