@@ -72,15 +72,15 @@ __OBS: Não vamos abordar como se instala o sakila, pois este não é o foco.__
 
 ## III - JOINS - (JOIN é permitir combinar registros de duas ou mais tabelas, através do relacionamento que uma tabela tem com a outra.):
 
-[]();
+[1 - Introdução a JOINS](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_III/01_Introducao_JOINS.sql);
 
-[]();
+[2 - INNER JOIN](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_III/02_Como_utilizar_o_INNER_JOIN.sql);
 
-[]();
+[2.1 - Como utilizar LEFT JOIN](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_III/02.1_Como_utilizar_LEFT_JOIN.sql);
 
-[]();
+[2.2 - Como utilizar RIGHT JOIN](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_III/02.2_Como_utilizar_RIGHT_JOIN.sql);
 
-[]();
+[2.3 - Como utilizar SELF JOIN](https://github.com/elielsondev/mysql_practice/blob/main/PARTE_III/02.3_Como_utilizar_SELF_JOIN_conceito.sql);
 
 ## IV - Normalização - (Transformando ideias em um modelo de banco de dados.):
 
