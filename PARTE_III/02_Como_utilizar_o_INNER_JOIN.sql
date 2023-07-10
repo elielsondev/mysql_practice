@@ -60,3 +60,8 @@ ON t1.actor_id = t2.actor_id;
     Caso esteja montando JOINS com muitas linhas, é recomendado usar um alias mais
     descritivo para tornar a leitura e interpretação da query mais simples.
 */
+
+SELECT co.country_id, co.country, ci.city, ci.country_id
+FROM sakila.country AS co
+INNER JOIN sakila.city AS ci
+ON co.country_id = ci.country_id;
